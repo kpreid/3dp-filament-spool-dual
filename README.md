@@ -1,6 +1,6 @@
 Modification of [Unlockable loose Filament Spool](https://www.thingiverse.com/thing:1986210) which holds and separates two filaments, thus allowing two samples or tag-ends to be held in the same volume as the original design.
 
-# License
+## License
 
 Copyright 2018 Kevin Reid <kpreid@switchb.org>, except as noted below.
 
