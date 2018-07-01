@@ -1,4 +1,32 @@
-Modification of [Unlockable loose Filament Spool](https://www.thingiverse.com/thing:1986210) which holds and separates two filaments, thus allowing two samples or tag-ends to be held in the same volume as the original design.
+Modification of [Unlockable loose Filament Spool](https://www.thingiverse.com/thing:1986210) which holds two filaments, thus allowing two small samples or leftovers to be held in the same volume as the original design.
+
+## Usage
+
+### Printing
+
+Do not print `Filament_Spool_Fork.stl`; it is the original one-slot model, which is only included because `dual-fork.scad` needs it to generate the modification.
+
+Print:
+
+* 2 copies of `Filament_Spool_Disk.stl`.
+* 5 copies of `dual-fork.stl`.
+* 10 copies of `Filament_Spool_Spike.stl` (each fork now requires two).
+
+Or if you are "upgrading" an existing spool of the original design, print 5 new forks and 5 spikes.
+
+### Assembly
+
+Same as original except for the extra spikes, but this is my writeup of the details:
+
+1. I had to clean the filament holding holes with a 5/32" drill bit — slightly smaller would be a better close fit, but this size is usable.
+
+2. Press two spikes onto the hexagonal posts on each fork. Note the asymmetry of the spike — one way will line up nicely with the fixed center spike and the other will not.
+
+3. Press the assembled forks into your choice of notch in the **flat side** of the disk.
+
+4. Put the other disk on top of the forks and press it all together.
+
+5. Gently push each fork's two locking pins towards the hub to make sure the tabs are locked rather than still compressed by the hole.
 
 ## License
 
