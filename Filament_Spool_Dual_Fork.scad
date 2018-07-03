@@ -47,5 +47,5 @@ module centerline_zeroed() {
 }
 
 module original() {
-    import("Filament_Spool_Fork.stl", convexity=8);
+    import("_Original_Fork.stl", convexity=8);
 }

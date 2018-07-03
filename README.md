@@ -4,12 +4,12 @@ Modification of [Unlockable loose Filament Spool](https://www.thingiverse.com/th
 
 ### Printing
 
-Do not print `Filament_Spool_Fork.stl`; it is the original one-slot model, which is only included because `dual-fork.scad` needs it to generate the modification.
+Do not print `_Original_Fork.stl`; it is the original one-slot model, which is only included because `Filament_Spool_Dual_Fork.scad` needs it to generate the modification.
 
 Print:
 
 * 2 copies of `Filament_Spool_Disk.stl`.
-* 5 copies of `dual-fork.stl`.
+* 5 copies of `Filament_Spool_Dual_Fork.stl`.
 * 10 copies of `Filament_Spool_Spike.stl` (each fork now requires two).
 
 Or if you are "upgrading" an existing spool of the original design, print 5 new forks and 5 spikes.
@@ -34,4 +34,4 @@ Copyright 2018 Kevin Reid <kpreid@switchb.org>, except as noted below.
 
 This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 International License</a>.
 
-The files `Filament_Spool_*.stl` were created by Christoph Laimer (see https://www.thingiverse.com/thing:1986210) and published under the same license.
+The files `Filament_Spool_Disk.stl`, `Filament_Spool_Spike.stl`, and `_Origimal_Fork.stl` were created by Christoph Laimer (see https://www.thingiverse.com/thing:1986210) and published under the same license.
