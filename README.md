@@ -9,7 +9,7 @@ Do not print `_Original_Fork.stl`; it is the original one-slot model, which is o
 Print:
 
 * 2 copies of `Filament_Spool_Disk.stl`.
-* 5 copies of `Filament_Spool_Dual_Fork.stl`.
+* 5 copies of `Filament_Spool_Dual_Fork.scad` (use OpenSCAD to generate the `.stl` file).
 * 10 copies of `Filament_Spool_Spike.stl` (each fork now requires two).
 
 Or if you are "upgrading" an existing spool of the original design, print 5 new forks and 5 spikes.
@@ -18,7 +18,7 @@ Or if you are "upgrading" an existing spool of the original design, print 5 new 
 
 Same as original except for the extra spikes, but this is my writeup of the details:
 
-1. I had to clean the filament holding holes with a 5/32" drill bit — slightly smaller would be a better close fit, but this size is usable.
+1. I had to clean the filament holding holes with a 5/64" (about 2 mm) drill bit — slightly smaller would be a better close fit, but this size is usable.
 
 2. Press two spikes onto the hexagonal posts on each fork. Note the asymmetry of the spike — one way will line up nicely with the fixed center spike and the other will not.
 
